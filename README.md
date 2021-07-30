@@ -9,8 +9,8 @@ Biết chi phí chuyển i gói tin trên kênh j là C(i,j).
 •	Input :
 + Dòng đầu tiên : 2 số n và m.
 + Dòng thứ i trong n dòng tiếp theo : dãy m số nguyên dương b1, b2, b3,…,bm trong đó bij là chi phí chuyển i gói tin trên kênh j.
-5       4
-31     10     1       1
+5 4
+31 10 1 1
 1      31     12     13
 4      10     31     1
 6       1     20     19
