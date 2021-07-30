@@ -30,8 +30,4 @@ dòng  5 : 1
 Với n = 5 gói tin, m = 4 kênh và chi phí C[i][j] cho trước, 
 trong đó i là chỉ số dòng (số gói tin), j là chỉ số cột (số kênh) thì cách chuyển sau đây sẽ cho chi phí thấp nhất là 2.
 
-Kênh	Số gói tin	Chi phí
-1	        0	         0
-2	        4	         1
-3	        0	         1
-4	        1	         0
+Kênh : 1 2 3 4, Số gói tin : 0 4 0 1, Chi phí : 0 1 1 0
